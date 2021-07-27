@@ -17,9 +17,9 @@ conda install pytorch torchvision torchaudio
         Put the csv files in this folder
 
 3. There are three notebooks in the repository
-Clear and preprocess.ipynb[1]
-EDA and data visualization.ipynb[2]
-prediction and cluster copy.ipynb[3]
+[Clear and preprocess.ipynb](https://github.com/zzhang2816/finance/blob/main/Clear%20and%20preprocess.ipynb)[1]
+[EDA and data visualization.ipynb](https://github.com/zzhang2816/finance/blob/main/EDA%20and%20data%20visualization.ipynb)[2]
+[prediction and cluster copy.ipynb](https://github.com/zzhang2816/finance/blob/main/prediction%20and%20cluster%20copy.ipynb)[3]
 
 Checkpoints:
 1. Data preparation, cleansing, transformation and profiling[1,2]
