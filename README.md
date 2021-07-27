@@ -1,4 +1,4 @@
-# AREIX Assessment project
+# AREIX Assessment Project
 
 1. The following packages need to be installed:
 python version: 3.8
